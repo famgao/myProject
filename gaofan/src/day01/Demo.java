@@ -5,7 +5,6 @@ public class Demo {
 		System.out.println("hello");
 		System.out.println("java");
 		System.out.println("hhh");
-
 		System.out.println("sss");
 	}
 
